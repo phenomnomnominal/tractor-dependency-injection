@@ -29,7 +29,7 @@
     "node": ">=0.10"
   },
   "dependencies": {
-    "tractor-error-handler": "^0.1.4"
+    "tractor-error-handler": "^0.2.0"
   },
   "devDependencies": {
     "babel-cli": "^6.24.0",
